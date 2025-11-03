@@ -8,6 +8,8 @@ website:
     left:
       - href: index.qmd
         text: "Home"
+      - href: episodes.qmd
+        text: "Episodes"
       - href: about.qmd
         text: "About Me"
 

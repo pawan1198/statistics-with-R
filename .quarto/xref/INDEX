@@ -4,5 +4,44 @@
   },
   "about.qmd": {
     "about.html": "07376437"
+  },
+  "episodes/00-intro.Rmd": {
+    "00-intro.html": "9efb2e4a"
+  },
+  "episodes/data-frame.Rmd": {
+    "data-frame.html": "3453c35c"
+  },
+  "episodes/07-json.Rmd": {
+    "07-json.html": "de2de37c"
+  },
+  "episodes/04-tidyr.Rmd": {
+    "04-tidyr.html": "53fc91b1"
+  },
+  "episodes/01-intro-to-r.Rmd": {
+    "01-intro-to-r.html": "e46e3814"
+  },
+  "episodes/05-ggplot2.Rmd": {
+    "05-ggplot2.html": "c0a9030a"
+  },
+  "episodes/03-dplyr.Rmd": {
+    "03-dplyr.html": "30b1b7a8"
+  },
+  "episodes/06-rmarkdown.Rmd": {
+    "06-rmarkdown.html": "a41ab261"
+  },
+  "episodes/installation.md": {
+    "installation.html": "2c4b7b65"
+  },
+  "episodes/data-types.Rmd": {
+    "data-types.html": "8c702451"
+  },
+  "episodes/02-starting-with-data.Rmd": {
+    "02-starting-with-data.html": "1a5895fa"
+  },
+  "episodes/reshaping-data.Rmd": {
+    "reshaping-data.html": "9325275b"
+  },
+  "episodes.qmd": {
+    "episodes.html": "fd25ff9c"
   }
 }

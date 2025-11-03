@@ -1,0 +1,19 @@
+[
+  {
+    "listing": "/episodes.html",
+    "items": [
+      "/episodes/00-intro.html",
+      "/episodes/07-json.html",
+      "/episodes/04-tidyr.html",
+      "/episodes/01-intro-to-r.html",
+      "/episodes/05-ggplot2.html",
+      "/episodes/03-dplyr.html",
+      "/episodes/06-rmarkdown.html",
+      "/episodes/installation.html",
+      "/episodes/02-starting-with-data.html",
+      "/episodes/data-frame.html",
+      "/episodes/reshaping-data.html",
+      "/episodes/data-types.html"
+    ]
+  }
+]
