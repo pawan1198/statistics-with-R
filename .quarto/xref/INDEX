@@ -43,5 +43,17 @@
   },
   "episodes.qmd": {
     "episodes.html": "fd25ff9c"
+  },
+  "00-intro.Rmd": {
+    "00-intro.html": "57c650c1"
+  },
+  "01-intro-to-r.Rmd": {
+    "01-intro-to-r.html": "9cfcfbd7"
+  },
+  "summary.qmd": {
+    "summary.html": "ad28f219"
+  },
+  "references.qmd": {
+    "references.html": "0941cf41"
   }
 }
