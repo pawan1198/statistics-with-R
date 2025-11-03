@@ -1,25 +1,27 @@
 project:
-  type: website
-  output-dir: docs
+  type: book
+  output-dir: _book
 
-website:
-  title: "statistics-with-R"
-  navbar:
-    left:
-      - href: index.qmd
-        text: "Home"
-      - href: episodes.qmd
-        text: "Episodes"
-      - href: about.qmd
-        text: "About Me"
+book:
+  title: "r"
+  author: "Pawan"
+  date: "11/03/2025"
+  chapters:
+    - index.qmd
+    - 00-intro.Rmd
+    - 01-intro-to-r.Rmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
 
 format:
   html:
-    theme: litera
+    theme:
       - cosmo
       - brand
-    css: styles.css
-    toc: true
+  pdf:
+    documentclass: scrreprt
 
-editor: visual
+
 

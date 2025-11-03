@@ -1,18 +1,5 @@
----
-title: "statistics-with-R"
-author: "Pawan"
-website:
-  search: 
-    location: navbar
-    type: textbox
-  navbar:
-    search: true
-    left:
-      - text: "Home"
-        file: index.qmd
-      - text: "About Me"
-        file: about.qmd 
-    
-  listing:
-    feed: true    
----
+# Preface {.unnumbered}
+
+This is a Quarto book.
+
+To learn more about Quarto books visit <https://quarto.org/docs/books>.
